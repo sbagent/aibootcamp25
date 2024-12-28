@@ -15,6 +15,9 @@ Share, comment, provide a feedback
 ### Deadlines
 Soft deadlines (for each project)  
 
+### General timeline
+Start now, till end of january 2025  
+
 ### Contacts
 sbagency@proton.me  
 
