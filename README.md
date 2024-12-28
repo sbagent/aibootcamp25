@@ -13,5 +13,5 @@ Explore media space, hacker news, trending github projects, etc.
 Share, comment, provide a feedback    
 
 ### Deadlines
-Soft deadlines, for each project  
+Soft deadlines (for each project)  
 
