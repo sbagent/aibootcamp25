@@ -4,7 +4,7 @@ General pipelines: PE, ICL, RAG, etc.
 Custom app pipelines: QA, KGs, etc.  
 
 ### Models (HF/*)
-Llama3.x, Mistral  
+Llama3.x, Mistral, etc.  
 
 ### APIs
 Local: [ollama](https://ollama.com/), [vllm](https://github.com/vllm-project/vllm), etc.  
